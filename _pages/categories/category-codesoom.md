@@ -1,9 +1,9 @@
 ---
-title: "Web"
+title: "Codesoom"
 layout: category
-permalink: /categories/web/
+permalink: /categories/codesoom/
 author_profile: true
-taxonomy: Web
+taxonomy: Codesoom
 sidebar:
   nav: "categories"
 ---
